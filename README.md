@@ -15,4 +15,4 @@ Data was handled in Kaggle, and an LLM (Gemini) in Google Colab was used to gene
 - Google Colab (Gemini API)
 
 ## Dataset
-Kaggle: https://www.kaggle.com/datasets/animal-behavior-prediction
+Kaggle: [https://www.kaggle.com/datasets/animal-behavior-prediction](https://www.kaggle.com/datasets/obulikarthikeyan/animal-behavior-prediction)
