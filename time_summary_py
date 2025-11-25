@@ -3,11 +3,11 @@ if 'timestamp' in df.columns:
 
 def get_most_frequent(x):
     if len(x) == 0: return None
-    return x.mode()[0] # 최빈값 선택
+    return x.mode()[0] 
 
 df_resampled = df.resample('1min').agg({
-    'state': get_most_frequent,  # 행동 상태는 최빈값
-    'acc_magnitude': 'mean'      # 가속도는 평균값
+    'state': get_most_frequent,  
+    'acc_magnitude': 'mean'      
 }).dropna()
 
 df_resampled = df_resampled.reset_index()
