@@ -13,3 +13,6 @@ Data was handled in Kaggle, and an LLM (Gemini) in Google Colab was used to gene
 ## Tools
 - Kaggle (Pandas, scikit-learn)
 - Google Colab (Gemini API)
+
+## Dataset
+Kaggle: https://www.kaggle.com/datasets/animal-behavior-prediction
