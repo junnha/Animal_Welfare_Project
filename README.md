@@ -1,7 +1,7 @@
 # Animal Activity Analyzer  
 **Course:** The Mind of Animals: Possibility of Coexistence with Humans (RGC-2103-01)
 
-A simple project that processes acceleration sensor data and classifies animal behavior.  
+A very simple project that processes acceleration sensor data and classifies animal behavior.  
 Data was handled in Kaggle, and an LLM (Gemini) in Google Colab was used to generate a short explanation.
 
 ## Steps
